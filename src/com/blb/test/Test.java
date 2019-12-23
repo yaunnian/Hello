@@ -6,5 +6,6 @@ public class Test {
 		System.out.println("你好啊");
 		System.out.println("又是充满希望的一天");
 		System.out.println("哎呦呦");
+		System.out.println("挺牛逼啊兄弟");
 	}
 }
